@@ -1,4 +1,4 @@
-# provider_boiler_plate
+# provider_boilerplate
 
 A new Flutter project.
 
