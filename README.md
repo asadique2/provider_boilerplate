@@ -1,16 +1,16 @@
-# provider_boilerplate
+Flutter Boilerplate with Provider & Stacked
+A starter template for building scalable Flutter apps using Provider for state management along with the Stacked architecture.
 
-A new Flutter project.
+🚀 Features
+Provider for dependency injection and reactive state management
 
-## Getting Started
+Stacked package for MVVM-style architecture and better separation of concerns
 
-This project is a starting point for a Flutter application.
+Clean file and folder structure ready for production
 
-A few resources to get you started if this is your first Flutter project:
+Responsive layout support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ready-to-use setup — no restructuring needed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Modular and scalable for apps of any size
+
