@@ -1,5 +1,5 @@
-#Flutter Boilerplate with Provider & Stacked
-##A starter template for building scalable Flutter apps using Provider for state management along with the Stacked architecture.
+# Flutter Boilerplate with Provider & Stacked
+## A starter template for building scalable Flutter apps using Provider for state management along with the Stacked architecture.
 
 #🚀 Features
 Provider for dependency injection and reactive state management
