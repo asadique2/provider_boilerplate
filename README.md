@@ -1,7 +1,7 @@
-Flutter Boilerplate with Provider & Stacked
-A starter template for building scalable Flutter apps using Provider for state management along with the Stacked architecture.
+#Flutter Boilerplate with Provider & Stacked
+##A starter template for building scalable Flutter apps using Provider for state management along with the Stacked architecture.
 
-🚀 Features
+#🚀 Features
 Provider for dependency injection and reactive state management
 
 Stacked package for MVVM-style architecture and better separation of concerns
@@ -15,11 +15,11 @@ Ready-to-use setup — no restructuring needed
 Modular and scalable for apps of any size
 
 1. Clone the repository
-git clone https://github.com/asadique2/provider_boilerplate.git
+__git clone https://github.com/asadique2/provider_boilerplate.git__
 
 2. Install dependencies
-flutter pub get
+__flutter pub get__
 
 3. Run the app
-flutter run
+__flutter run__
 
